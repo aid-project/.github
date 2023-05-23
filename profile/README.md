@@ -1,4 +1,4 @@
-# 그림 이어 그리기 커뮤니티 서비스(미제)
+# 인공지능을 활용한 그림 픽토그램화 서비스
 
 ### 👩 팀원 소개
 | 이름   | 직무 | URL  |
@@ -10,8 +10,5 @@
 | 김나연 | Designer   |      |
 | 박다영 | Designer   |      |
 
-**SRS / API 명세** <br/>
-https://docs.google.com/spreadsheets/d/1L_If_4V0BtYB7ld3Jh5pFjVFX4J1y-oz8u6ztf1j09w/edit?usp=sharing
-
 **Wire Frame** <br/>
-https://www.figma.com/file/agyRmNMsPxGnZ8eP6PDEcG/Jong-seol?node-id=0%3A1&t=i7HiBemdvbGAdh6A-0
+https://www.figma.com/file/uQYUMDYo6ZyKfCTOEgYmA0/Untitled?type=design&node-id=0-1&t=QvmVynuuhMIQIPGd-0
