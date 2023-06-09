@@ -12,3 +12,6 @@
 
 **Wire Frame** <br/>
 https://www.figma.com/file/uQYUMDYo6ZyKfCTOEgYmA0/Untitled?type=design&node-id=0-1&t=QvmVynuuhMIQIPGd-0
+
+**DSD** <br/>
+https://docs.google.com/document/d/1HqQ1Ctg7skqCcKWLfl8tPgRp2CsBXo_u1azzSWl3f00/edit
