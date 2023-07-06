@@ -10,8 +10,11 @@
 | 김나연 | Designer   |      |
 | 박다영 | Designer   |      |
 
-**Wire Frame** <br/>
+**🎨 Wire Frame** <br/>
 https://www.figma.com/file/uQYUMDYo6ZyKfCTOEgYmA0/Untitled?type=design&node-id=0-1&t=QvmVynuuhMIQIPGd-0
 
-**DSD** <br/>
+**💡 Design Requirement Document** <br/>
 https://docs.google.com/document/d/1HqQ1Ctg7skqCcKWLfl8tPgRp2CsBXo_u1azzSWl3f00/edit
+
+**⚙ Design Specification Document** <br/>
+https://docs.google.com/document/d/1_G3r9dsUiVZbvaGDhh6zyLpAxBxr3T0fYy3ymPd9rzs/edit#heading=h.scf4rycl97li
